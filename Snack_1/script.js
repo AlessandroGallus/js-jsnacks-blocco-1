@@ -1,9 +1,14 @@
+
+/* inserimento delle parole da parte dell'utente */
+
+
 var parola_1 = "";
 var parola_2 = "";
 
 parola_1 = prompt("inserisci la prima parola");
 parola_2 = prompt("inserisci la seconda parola");
 
+/* confronto lunghezza parole */
 var l1 = parola_1.length;
 var l2 = parola_2.length;
 
